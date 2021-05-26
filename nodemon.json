@@ -1,0 +1,12 @@
+{
+    "env": {
+        "MYSQL_USER": "beto10561",
+        "MYSQL_PASSWORD": "angstron1005",
+        "MYSQL_DATABASE": "rest_api_nodejs",
+        "MYSQL_HOST": "db4free.net",
+        "MYSQL_PORT": 3306,
+
+        "JWT_KEY": "segredo",
+        "URL_API": "http://localhost:3000/"
+    }
+}
