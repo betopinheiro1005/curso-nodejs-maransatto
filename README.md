@@ -1,4 +1,4 @@
-# Curso de Node.JS
+# Curso REST API com Node.JS
 ## Fernando Silva Maransatto
 
 ### Instalação de dependências
@@ -7,8 +7,7 @@
 npm install
 ```
 
-### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=d_vXgK4uZJM&list=PLWgD0gfm500EMEDPyb3Orb28i7HK5_DkR
-https://github.com/Maransatto/rest-api-node-js)
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=d_vXgK4uZJM&list=PLWgD0gfm500EMEDPyb3Orb28i7HK5_DkR)
 
 Aula 01 - Criando o ambiente  
 Aula 02 - Criando as rotas  
